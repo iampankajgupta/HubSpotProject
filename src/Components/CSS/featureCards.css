@@ -1,0 +1,31 @@
+
+
+
+
+.main-container{
+    width: 370px;
+    height: fit-content;
+    /* padding:8px 5px;  */
+    padding:28px;
+    /* background-color:aqua; */
+    background-color: white;
+    margin:8px 12px;
+}
+
+
+button{
+    background-color: #ff7a59;
+    padding:10px 40px 10px 40px;
+    color:white;
+    margin-top:18px;
+    border:none
+
+}
+
+ul{
+    list-style: none;
+}
+
+#title-container{
+    display: flexbox;
+}

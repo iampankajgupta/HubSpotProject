@@ -1,0 +1,170 @@
+* {
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+html,
+body {
+    height: 100%;
+}
+
+#container {
+    min-height: 100%;
+    /* background-color: #f5f8fa; */
+}
+
+
+.header{
+    display: flex;
+
+    padding:10px;
+    
+}
+
+.searchIcon{
+    margin: auto;
+  
+}
+
+#main {
+    overflow: auto;
+    padding-bottom: 200px;
+    /* background-color:#f5f8fa; */
+    
+}
+
+.verticalLine {
+    border-left: thick solid white;
+    height: 20px;
+    width: 2px;
+}
+
+.header {
+    height: 50px;
+    width: 100%;
+    background-color:#f5f8fa;
+    
+}
+
+.selectLanguage {
+    margin: 0px 2px 0px 10px;
+}
+
+.contact {
+    margin: 0px 10px 0px 10px;
+}
+
+
+
+.searchIcon{
+    float: right;
+}
+
+/* body */
+
+.bodyCenter{
+    background-image: url("../../assets//images/hero.svg");
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    
+
+}
+
+
+#body-content{
+    display: flex;
+    margin:18px 0px;
+    background-color: #f5f8fa;
+}
+
+#cross_platform_users_section{
+    background-color: #f5f8fa;
+}
+
+/*   body */
+
+
+
+
+/* Footer */
+
+#footer {
+    background-color: #33475b;
+    position: relative;
+    color: #d3d3d3;
+    height: 400px;
+    /* margin-top: -100px; */
+    clear: both;
+
+
+}
+
+
+ hr{
+   background-color: white;
+} 
+
+
+
+.footer-content{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+
+
+
+.policy{
+    margin: auto;
+}
+
+#noOfUsers{
+    font-weight: 1000;
+}
+
+
+
+.list1{
+    margin:0px 18px 0px 18px;
+}
+
+.list2{
+    margin:0px 18px 0px 0px;
+}
+
+.list3{
+    margin:0px 18px 0px 0px;
+}
+
+.list14{
+    margin:0px 18px 0px 0px;
+}
+
+
+.language{
+    display: flex;
+    
+}
+.policy{
+    display: flex;
+    float: right;
+}
+
+.policy #legalStuff{
+    margin:0px 8px;
+}
+
+.policy #privacyPolicy{
+    margin:0px 8px;
+}
+
+.footer-bottom{
+    display: flex;
+}
+
+/* Footer */

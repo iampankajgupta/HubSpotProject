@@ -1,0 +1,14 @@
+.bodyPart{
+    width: 370px;
+    height:fit-content;
+    padding:10px;
+
+}
+
+#message{
+    margin-top: 10px;
+}
+
+#btn{
+    margin: 10px 0px;
+}
