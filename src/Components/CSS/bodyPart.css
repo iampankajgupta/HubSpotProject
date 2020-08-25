@@ -2,13 +2,24 @@
     width: 370px;
     height:fit-content;
     padding:10px;
+    margin-left: 19rem;
 
 }
 
+
+#heading{
+    color: #33475b;
+    font-weight: 3000;
+    margin-bottom: 22px;
+    margin-top: 1rem;
+}
 #message{
     margin-top: 10px;
+    background-color: none;
+
 }
 
 #btn{
     margin: 10px 0px;
+    margin-top: 10px;
 }

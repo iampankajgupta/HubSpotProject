@@ -1,0 +1,17 @@
+
+
+.msg-container{
+    width: 400px;
+    height: 400px;
+    font-weight: none;
+}
+
+.content{
+    background-color: none;
+}
+
+
+.title{
+    margin-left: 2.5rem;
+    margin-bottom: 20px;
+}
